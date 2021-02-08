@@ -6,7 +6,7 @@ Collection of slides for security presentations I've given in various forums.
 
 <b>Solo presentations:</b>
 
-December 2020: The Complete n00b's Guide to Cloud Security:
+2020 December: The Complete n00b's Guide to Cloud Security:
 <br>https://www.youtube.com/watch?v=ZfyWJOgEWYc&feature=youtu.be
 
 
