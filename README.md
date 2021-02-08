@@ -1,14 +1,17 @@
 # Security-Presentations
 Collection of slides for security presentations I've given in various forums.
 
-Links to recorded presentations:
+<b><h3>Links to recorded presentations:</h3></b>
 
-Solo presentations:
+
+<b>Solo presentations:</b>
+
 December 2020: The Complete n00b's Guide to Cloud Security:
 https://www.youtube.com/watch?v=ZfyWJOgEWYc&feature=youtu.be
 
 
-As a panel moderator/participant:
+<b>As a panel moderator/participant:</b>
+
 2020 October: Blue Team Village @ Grayhat - Meet A Mentor Panel: Getting In and Getting Good at Incident Response
 https://youtu.be/a515BgPuLk4
 
