@@ -20,7 +20,7 @@ Collection of slides for security presentations I've given in various forums.
 2020 October: Blue Team Village Meet-a-Mentor Panel - Mental Wellness: Confidence, Impostor Syndrome and Burnout in 2020
 <br>https://youtu.be/Ejjb3APyqSo?t=701
 
-2020 October: Blue Team Village @ Grayhat - Lightning Talks: O365 Authentication Types in Splunk Logs
+2020 October: Blue Team Village @ Grayhat - Lightning Talks: O365 Authentication Types via Splunk Logs
 <br>https://youtu.be/Zpk5WwnEJoY?t=1675
 
 2020 September: Blue Team Village Meet-a-Mentor Panel - Technical Skill Acquisition
