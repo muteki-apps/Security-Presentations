@@ -6,8 +6,7 @@ Collection of slides for security presentations I've given in various forums.
 
 <b>Solo presentations:</b>
 
-2020 December: BSides Philly - The Complete n00b's Guide to Cloud Security:
-<br>https://youtu.be/ZfyWJOgEWYc
+[2020 December: BSides Philly - The Complete n00b's Guide to Cloud Security](https://youtu.be/ZfyWJOgEWYc)
 
 
 <b>As a panel moderator/participant:</b>
