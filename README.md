@@ -10,6 +10,7 @@ Collection of slides for security presentations I've given in various forums.
 
 
 <b>As a panel moderator/participant:</b>
+
 [2020 October: Blue Team Village @ Grayhat - Meet A Mentor Panel: Getting In and Getting Good at Incident Response](https://youtu.be/a515BgPuLk4)
 
 [2020 October: Blue Team Village @ Grayhat - Meet A Mentor Panel: Getting In and Getting Good at SIEMs & Logging](https://youtu.be/7KFFvtCPH_c)
