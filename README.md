@@ -5,6 +5,7 @@ Collection of slides for security presentations I've given in various forums.
 
 
 <b>Solo presentations:</b>
+[2021 August: DEF CON 29 Cloud Village - Exploiting the O365 Duo 2FA Misconfiguration](https://youtu.be/D77aJug_-aQ)
 
 [2020 December: BSides Philly - The Complete n00b's Guide to Cloud Security](https://youtu.be/ZfyWJOgEWYc)
 
