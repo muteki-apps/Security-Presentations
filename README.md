@@ -4,14 +4,19 @@ Collection of slides for security presentations I've given in various forums.
 <b><h3>Links to recorded presentations:</h3></b>
 
 
-<b>Solo presentations:</b>
+<b>Presentations & Panel Appearances:</b>
+
+[2022 April: Scythe UniCon 2022 - Log4Shell Lessons from the Perfect Purple Storm](https://www.youtube.com/watch?v=kV8nkGEOftM&t=27s)
+
+[2021 October: ShellCon 2021 - Pipelines && Serverless && Automation, Oh My! An Intro to the Dev Side of Security](https://www.youtube.com/watch?v=b22kqWVFHbo&list=PL7D3STHEa66QNx0Z0uW4yISwHdbCzVKli&index=2&t=12189s)
 
 [2021 August: DEF CON 29 Cloud Village - Exploiting the O365 Duo 2FA Misconfiguration](https://youtu.be/D77aJug_-aQ)
 
 [2020 December: BSides Philly - The Complete n00b's Guide to Cloud Security](https://youtu.be/ZfyWJOgEWYc)
 
 
-<b>As a panel moderator/participant:</b>
+<b>Blue Team Village Panels (Moderation/Appearance):</b>
+
 
 [2020 October: Blue Team Village @ Grayhat - Meet A Mentor Panel: Getting In and Getting Good at Incident Response](https://youtu.be/a515BgPuLk4)
 
