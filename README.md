@@ -17,14 +17,12 @@ Collection of slides for security presentations I've given in various forums.
 | 2020 | BSides Philly | Talk (virtual) | The Complete n00b's Guide to Cloud Security | [Link](https://youtu.be/ZfyWJOgEWYc) |
 | 2020 | Blue Team Village Grayhat | Panel (mod) | Meet A Mentor Panel: Getting In and Getting Good at Incident Response | [Link](https://youtu.be/a515BgPuLk4) |
 | 2020 | Blue Team Village Grayhat | Panel (mod) | Meet A Mentor Panel: Getting In and Getting Good at SIEMs & Logging | [Link](https://youtu.be/7KFFvtCPH_c) |
-
+| 2020 | Blue Team Village Grayhat | Lightning Talk | O365 Authentication Types via Splunk Logs | [Link](https://youtu.be/Zpk5WwnEJoY?t=1675) |
 
 
 <b>Blue Team Village Mentor Program Panels (Moderation/Appearance):</b>
 
 [2020 October: Blue Team Village Meet-a-Mentor Panel - Mental Wellness: Confidence, Impostor Syndrome and Burnout in 2020](https://youtu.be/Ejjb3APyqSo?t=701)
-
-[2020 October: Blue Team Village @ Grayhat - Lightning Talks: O365 Authentication Types via Splunk Logs](https://youtu.be/Zpk5WwnEJoY?t=1675)
 
 [2020 September: Blue Team Village Meet-a-Mentor Panel - Technical Skill Acquisition](https://youtu.be/DnPA1m4cNVk?t=1160)
 
